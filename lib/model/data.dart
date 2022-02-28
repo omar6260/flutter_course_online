@@ -1,8 +1,4 @@
-var profile = {
-  "name": "Sangvaleap",
-  "image": "https://avatars.githubusercontent.com/u/86506519?v=4",
-  "email": "sangvaleap.vanny@gmail.com"
-};
+var profile = {"name": "Oumar", "image": "", "email": "foumar404@gmail.com"};
 
 List categories = [
   {"name": "All", "icon": "assets/icons/category/all.svg"},
@@ -26,7 +22,7 @@ List courses = [
     "duration": "10 hours",
     "session": "6 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -52,7 +48,7 @@ List courses = [
     "duration": "12 hours",
     "session": "4 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -65,7 +61,7 @@ List courses = [
     "duration": "4 hours",
     "session": "3 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -78,7 +74,7 @@ List courses = [
     "duration": "12 hours",
     "session": "4 lessons",
     "review": "5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -91,7 +87,7 @@ List courses = [
     "duration": "12 hours",
     "session": "8 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -104,7 +100,7 @@ List courses = [
     "duration": "6 hours",
     "session": "4 lessons",
     "review": "4",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -117,7 +113,7 @@ List courses = [
     "duration": "8 hours",
     "session": "4 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
@@ -130,7 +126,7 @@ List courses = [
     "duration": "9 hours",
     "session": "5 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   }
@@ -146,7 +142,7 @@ List features = [
     "duration": "10 hours",
     "session": "6 lessons",
     "review": "4.5",
-    "is_favorited": false,
+    "is_favorited": true,
     "description":
         "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
   },
